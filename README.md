@@ -1,4 +1,4 @@
-# UESTC_Bachelor_Zotero_CLS
+# UESTC_Bachelor_Zotero_CSL
 电子科技大学本科毕业论文参考文献Zotero生成所需的CSL文件（自己根据git上面分享的上交模板改的，跟18级格式有90%的匹配，不匹配的只能手动修改）
 ## 所实现的功能
   - 英文名字缩写加点号，且Family Name在后面。如：G. E. Moore。
