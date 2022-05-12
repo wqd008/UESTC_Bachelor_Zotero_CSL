@@ -9,8 +9,8 @@
   - 引用他人学位论文时，地点后还是逗号，不是冒号，需要手动更改
   - 引用书籍时，出版社的地点后还是逗号，不是冒号，需要手动更改
 ## 具体样式
-  [1]	G. E. Moore. Cramming More Components Onto Integrated Circuits[J]. Proceedings of the IEEE, 1998, 86(1): 82-85
-  [2]	S. Naffziger, K. Lepak, M. Paraschou, et al. AMD Chiplet Architecture for High-Performance Server and Desktop Products[C]. 2020 IEEE International Solid-State Circuits Conference (ISSCC), San Francisco, 2020, 44-45
-  [3]	阎石. 数字电子技术基础(第5版)[M]. 北京, 高等教育出版社, 2006（逗号需要手动更改为冒号才符合18级要求）
-  [4]	朴英珲. 基于ECC电路的SRAM自检测修复设计与验证[D]. 哈尔滨，哈尔滨工业大学，2019（逗号需要手动更改为冒号才符合18级要求）
+  [1]	G. E. Moore. Cramming More Components Onto Integrated Circuits[J]. Proceedings of the IEEE, 1998, 86(1): 82-85 \
+  [2]	S. Naffziger, K. Lepak, M. Paraschou, et al. AMD Chiplet Architecture for High-Performance Server and Desktop Products[C]. 2020 IEEE International Solid-State Circuits Conference (ISSCC), San Francisco, 2020, 44-45 \
+  [3]	阎石. 数字电子技术基础(第5版)[M]. 北京, 高等教育出版社, 2006（逗号需要手动更改为冒号才符合18级要求） \
+  [4]	朴英珲. 基于ECC电路的SRAM自检测修复设计与验证[D]. 哈尔滨，哈尔滨工业大学，2019（逗号需要手动更改为冒号才符合18级要求） \
   [5]	张蕾, 顾婉萱, 刘娜, 等. 嵌入式固态存储系统ECC算法的研究与实现[J]. 北京理工大学学报, 2015, 01(63): 72-78
