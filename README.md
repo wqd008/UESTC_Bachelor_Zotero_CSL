@@ -1,12 +1,13 @@
 # UESTC_Bachelor_Zotero_CLS
 电子科技大学本科毕业论文参考文献Zotero生成所需的CLS文件（自己根据git上面分享的上交模板改的，跟18级格式有90%的匹配，不匹配的只能手动修改）
 ## 所实现的功能
-  - 英文名字缩写加点号，且Family Name在后面。
+  - 英文名字缩写加点号，且Family Name在后面。如：G. E. Moore。
   - 参考文献末尾无句号。
   - 中英文等和et al分开。需要在zotero中的文献“语言”属性下填入"en"。
   - 会议加入地名等。其他具体格式大部分都和18级所需的要求匹配。
 ## 未实现的功能（需要手动更改）
   - 引用他人学位论文时，地点后还是逗号，不是冒号，需要手动更改
+  - 由于本人未引用专利以及报告，所以本文件只修改了“期刊”、“会议”、“学位论文”和“书籍”这四种样式使其符合2018级（2022年毕业）的本科毕设要求
 ## 具体样式
   [1]	G. E. Moore. Cramming More Components Onto Integrated Circuits[J]. Proceedings of the IEEE, 1998, 86(1): 82-85 \
   [2]	S. Naffziger, K. Lepak, M. Paraschou, et al. AMD Chiplet Architecture for High-Performance Server and Desktop Products[C]. 2020 IEEE International Solid-State Circuits Conference (ISSCC), San Francisco, 2020, 44-45 \
